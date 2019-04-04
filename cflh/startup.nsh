@@ -40,3 +40,4 @@ if exist dp_set.txt then
     boot.nsh
   endif
 endif
+boot.nsh
